@@ -1,17 +1,17 @@
 {
   "main.css": "/weather-app/static/css/main.d58a6fbc.chunk.css",
-  "main.js": "/weather-app/static/js/main.ed94207d.chunk.js",
-  "main.js.map": "/weather-app/static/js/main.ed94207d.chunk.js.map",
+  "main.js": "/weather-app/static/js/main.5a3743d6.chunk.js",
+  "main.js.map": "/weather-app/static/js/main.5a3743d6.chunk.js.map",
   "static/css/1.59894ba7.chunk.css": "/weather-app/static/css/1.59894ba7.chunk.css",
   "static/js/1.04d43b87.chunk.js": "/weather-app/static/js/1.04d43b87.chunk.js",
   "static/js/1.04d43b87.chunk.js.map": "/weather-app/static/js/1.04d43b87.chunk.js.map",
   "runtime~main.js": "/weather-app/static/js/runtime~main.2be6f759.js",
   "runtime~main.js.map": "/weather-app/static/js/runtime~main.2be6f759.js.map",
-  "static/media/bootstrap.min.css": "/weather-app/static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/media/bootstrap.min.css": "/weather-app/static/media/glyphicons-halflings-regular.fa277232.woff",
   "static/media/App.css": "/weather-app/static/media/weather.b6a1cc22.jpg",
-  "static/css/main.d58a6fbc.chunk.css.map": "/weather-app/static/css/main.d58a6fbc.chunk.css.map",
   "static/css/1.59894ba7.chunk.css.map": "/weather-app/static/css/1.59894ba7.chunk.css.map",
+  "static/css/main.d58a6fbc.chunk.css.map": "/weather-app/static/css/main.d58a6fbc.chunk.css.map",
   "index.html": "/weather-app/index.html",
-  "precache-manifest.67724d6994230fc4a798c292d1ea948c.js": "/weather-app/precache-manifest.67724d6994230fc4a798c292d1ea948c.js",
+  "precache-manifest.52b252e83122d9fa7db6762cb618bb73.js": "/weather-app/precache-manifest.52b252e83122d9fa7db6762cb618bb73.js",
   "service-worker.js": "/weather-app/service-worker.js"
 }
